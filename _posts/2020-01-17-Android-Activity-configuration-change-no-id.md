@@ -36,8 +36,8 @@ Przykład: szybko tworzymy malutką aplikację z dwoma widokami [typu EditText](
     app:layout_constraintStart_toStartOf="parent"
     app:layout_constraintTop_toBottomOf="@+id/username" />
 
+<!-- no android:id here ! -->
 <EditText
-    <!-- no android:id here ! -->
     android:layout_width="0dp"
     android:layout_height="wrap_content"
     android:layout_marginStart="24dp"
