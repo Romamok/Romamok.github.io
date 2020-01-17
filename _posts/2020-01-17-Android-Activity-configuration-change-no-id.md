@@ -55,9 +55,13 @@ Przykład: szybko tworzymy malutką aplikację z dwoma widokami [typu EditText](
     app:layout_constraintTop_toBottomOf="@+id/username" />
 ```
 
-Co się stanie gdy odpalisz aplikację? Na pozór nic wielkiego. Ale teraz spróbuj wpisać coś do obu edittekstów. Wpisane? No to teraz obróć ekran. I co pan na to? Nie mamy pańskiej zawartości i co nam pan zrobi?
+Co się stanie gdy odpalisz aplikację? Na pozór nic wielkiego. Ale teraz spróbuj wpisać coś do obu edittekstów. Wpisane? No to teraz obróć ekran. I co pan na to? Nie mamy pańskiego tekstu i co pan nam zrobi?
 
-Jeśli ktoś **uważnie** studiował dokumentację Androida to znajdzie o tym małą wzmiankę w [Understand the Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle):
+![placeholder](https://media.giphy.com/media/QynWLqh22Dx4sgzRbD/giphy.gif "Nie mamy pańskiego tekstu i co pan nam zrobi")
+
+Jeśli ktoś **uważnie** studiował dokumentację Androida to znajdzie o tym małą wzmiankę w [Understand the Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle), tu pisze niech pan se przeczyta:
+
+![placeholder](https://media.giphy.com/media/VJ5ZjC5Vugh9icKhoM/giphy.gif "Za kontrolki bez id Android nie odpowiada")
 
 > Note: In order for the Android system to restore the state of the views in your activity, each view must have a unique ID, supplied by the android:id attribute.
 
