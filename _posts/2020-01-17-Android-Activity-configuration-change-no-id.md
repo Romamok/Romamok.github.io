@@ -1,5 +1,5 @@
 ---
-date: 2020-17-01 12:26:40
+date: 2020-01-17 12:26:40
 layout: post
 title: Android Activity configuration change no id.md
 subtitle: Why why why
