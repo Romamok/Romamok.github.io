@@ -105,3 +105,5 @@ protected void dispatchSaveInstanceState(SparseArray<Parcelable> container) {
     }
 }
 ```
+
+Jak myślisz, czy to jest dobre pytanie na rozmowe kwalifikacyjną na stanowisko Android developera? Dość podchwytliwe ale jeśli ktoś to wie to znaczy że dużo grzebał w dokumentacji / i bawił się z widokami. Co o tym sądzisz?
