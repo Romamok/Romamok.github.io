@@ -106,4 +106,8 @@ protected void dispatchSaveInstanceState(SparseArray<Parcelable> container) {
 }
 ```
 
+Na dokładkę jeszcze należy pamiętać że jeśli piszesz swój własny customowy widok (czyli rozszerzasz klasę [View](https://developer.android.com/reference/android/view/View.html)) to najczęściej powinieneś nadpisać metodę [View.onSaveInstanceState()](https://developer.android.com/reference/android/view/View.html#onSaveInstanceState()). To właśnie ona zostanie zawołana w momencie gdy Android zawoła metodę [Activity.onSaveInstanceState](https://developer.android.com/reference/android/app/Activity.html#onSaveInstanceState(android.os.Bundle)) na Aktywności w której ten customowy widok jest:
+
+>>> The default implementation takes care of most of the UI per-instance state for you by calling View.onSaveInstanceState() on each view in the hierarchy that has an id, and by saving the id of the currently focused view (all of which is restored by the default implementation of onRestoreInstanceState(Bundle)). 
+
 Jak myślisz, czy to jest dobre pytanie na rozmowe kwalifikacyjną na stanowisko Android developera? Dość podchwytliwe ale jeśli ktoś to wie to znaczy że dużo grzebał w dokumentacji / i bawił się z widokami. Co o tym sądzisz?
