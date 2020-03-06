@@ -1,12 +1,12 @@
 ---
 date: 2020-01-17 10:26:40
 layout: post
-title: Co się stanie gdy nie podasz id w layoutowym xml'u?
-subtitle: Mało kto o tym wie
+title: [In depth] Zapisywanie stanu kontrolek w Androidzie
+subtitle: Oto co się stanie gdy nie podasz id w layoutowym xml'u.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: Rekrutacja
+category: In depth
 tags:
   - secret
   - protip
