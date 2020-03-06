@@ -8,5 +8,5 @@ tags:
   - theme
   - netlify
 email: romanmokrzan@gmail.com
-#disqus_username: disqus_username
+disqus_username: romanmokrzan
 show_hero: true
