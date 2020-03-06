@@ -3,7 +3,7 @@ date: 2020-01-17 10:26:40
 layout: post
 title: [In depth] Zapisywanie stanu kontrolek w Androidzie
 subtitle: Oto co się stanie gdy nie podasz id w layoutowym xml'u.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Kilka ważnych informacji o tym jak Android zapisuje stan kontolek np. przy obrocie ekranu.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: In depth
