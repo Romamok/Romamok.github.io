@@ -6,7 +6,7 @@ subtitle: Oto co się stanie gdy nie podasz id w layoutowym xml'u.
 description: Kilka ważnych informacji o tym jak Android zapisuje stan kontolek np. przy obrocie ekranu.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: In depth
+category: Android
 tags:
   - secret
   - protip
